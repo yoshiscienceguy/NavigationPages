@@ -1,8 +1,10 @@
-package com.example.navigationpages;
+package fernando.example.navigationpages;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import fernando.example.navigationpages.R;
 import com.microsoft.appcenter.AppCenter;
 import com.microsoft.appcenter.analytics.Analytics;
 import com.microsoft.appcenter.crashes.Crashes;

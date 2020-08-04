@@ -1,4 +1,4 @@
-package com.example.navigationpages;
+package fernando.example.navigationpages;
 
 import org.junit.Test;
 
